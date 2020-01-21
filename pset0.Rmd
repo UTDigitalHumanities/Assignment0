@@ -24,4 +24,4 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 3. Select the Assignment0 repository.
 4. Add a short description of your changes to the Summary field on the left.
 5. Click "Commit to master"
-6. 
+6. Click "Push origin" at the top.
