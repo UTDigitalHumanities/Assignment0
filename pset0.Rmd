@@ -25,13 +25,13 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 ```
 
 2. What does this code do?
-```{r}
+```
 x <- 3
 ```
 <answer here>
 
 3. What does this code do?
-```{r}
+```
 x <- 5
 if (x < 10) {
   x <- 10
