@@ -1,7 +1,7 @@
 ---
-title: "R Notebook"
+title: "Problem Set 0"
 output: html_notebook
-author: 
+author: Name here
 ---
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
@@ -17,6 +17,28 @@ Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by press
 When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
 
 The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+# Basic Programming
+1. Try some basic math here.
+```{r}
+
+```
+
+2. What does this code do?
+```{r}
+x <- 3
+```
+<answer here>
+
+3. What does this code do?
+```{r}
+x <- 5
+if (x < 10) {
+  x <- 10
+}
+```
+<answer here>
+
 
 # Submitting
 1. Add your name in the Author field at the top of the notebook.
